@@ -53,6 +53,8 @@
 <div style="display: flex; gap: 0.25rem;">
 
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
@@ -80,4 +82,5 @@
 - 신촌연합 IT 창업동아리 CEOS 20기, 백엔드 (2024.09 ~ 2025.02)
 - **스타트업 교육 프로그램, 엔젤브릿지** BE (2024.11 ~ 2025.02)
 - [**For Crypto Event, Coinscope**](https://coinscope.gg/) BE (2024.11 ~ )
+- **AI 기반 피부 건강 관리 서비스, AcneLog** FE & BE (2025.03 ~ )
 
