@@ -81,6 +81,6 @@
 - **QR 안심 주차 관리 플랫폼, Q’PIN** BE (2024.07 ~ 2024.09)
 - 신촌연합 IT 창업동아리 CEOS 20기, 백엔드 (2024.09 ~ 2025.02)
 - **스타트업 교육 프로그램, 엔젤브릿지** BE (2024.11 ~ 2025.02)
-- [**For Crypto Event, Coinscope**](https://coinscope.gg/) BE (2024.11 ~ )
+- [**For Crypto Event, Coinscope.gg**](https://coinscope.gg/) BE (2024.11 ~ )
 - **AI 기반 피부 건강 관리 서비스, AcneLog** FE & BE (2025.03 ~ )
 
