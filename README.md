@@ -2,7 +2,7 @@
 
 <div align='center'>
 <h1>Hi👋 I'm Hanseul Lee</h1> 
-<p><strong>HAPPY Front-end & Back-end Developer</strong></p>
+<p><strong>HAPPY Back-end Developer</strong></p>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC5EA&height=140&section=footer" width="100%"/>
@@ -75,9 +75,9 @@
 <br />
 <h1>🎀 Activities ✨</h1>
 
-- 홍익대학교 UMC 5기, WEB (2023.09 ~ 2024.02)
+- UMC 5기, WEB (2023.09 ~ 2024.02)
 - [**모두를 위한 팀빌딩 서비스, 공작소**](https://gongjakso.xyz) FE (2024.01 ~ )
-- 홍익대학교 UMC 6기, Spring (2024.04 ~ 2024.08)
+- UMC 6기, Spring (2024.04 ~ 2024.08)
 - **QR 안심 주차 관리 플랫폼, Q’PIN** BE (2024.07 ~ 2024.09)
 - 신촌연합 IT 창업동아리 CEOS 20기, 백엔드 (2024.09 ~ 2025.02)
 - **스타트업 교육 프로그램, 엔젤브릿지** BE (2024.11 ~ 2025.02)
