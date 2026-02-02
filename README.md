@@ -1,13 +1,13 @@
-<div align="center">
+<div>
   
   <h3>이한슬</h3>
   <p></p>Backend Developer</p>
-  <img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/42eef977-497f-45d0-82c5-069a4630ef96" />
+  <!-- <img width="180" height="180" alt="Image" src="https://github.com/user-attachments/assets/42eef977-497f-45d0-82c5-069a4630ef96" /> -->
 
 </div>
 
 
-<br/>
+
 <h2></h2>
 <br/>
 
